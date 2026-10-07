@@ -1,6 +1,6 @@
 # Hi, I'm Nusrat Jahan 👋
 
-**Data Visualization · Business Intelligence · AI · Storytelling**
+**Data Analytics · AI · ML · Business Analytics**
 
 *"The world is one big data problem." — Andrew McAfee*
 
