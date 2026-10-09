@@ -4,8 +4,8 @@
 
 *"The world is one big data problem." — Andrew McAfee*
 
-🎓 Master of Business Analytics & AI — Ontario Tech University (In Progress)  
-🎓 B.Sc. Computer Engineering — MIST (CGPA: 3.58)  
+🎓 Master of Business Analytics & AI — Ontario Tech University (In Progress CGPA 3.94)  
+🎓 B.Sc. Computer Engineering — MIST (Completed)  
 💼 Open to Full-time Internship or Part-time opportunities  
 📍 Canada  
 🔗 [Portfolio](https://nusratjahan73.github.io) · [LinkedIn](https://www.linkedin.com/in/nusratjahan73/) · [Email](mailto:nusrat.jahan4@ontariotechu.net)
