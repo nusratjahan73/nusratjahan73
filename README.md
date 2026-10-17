@@ -1,8 +1,8 @@
 # Nusrat Jahan
 
-I build data and AI projects. Before my Master's, I spent over three years working with real business data: finding trends, matching thousands of records a day across systems, and spotting the accounts and transactions that needed attention. That taught me that a result is only useful if people can check it and trust it, and I bring that to every model I build.
+I build Data and AI projects. Before my Master's, I spent over three years working with real business data: finding trends, matching thousands of records a day across systems, and spotting the accounts and transactions that needed attention. That taught me that a result is only useful if people can check it and trust it, and I bring that to every model I build.
 
-I am open to data and AI roles in Canada.
+I am open to Data and AI roles in Canada.
 
 [Portfolio](https://nusratjahan73.github.io) | [LinkedIn](https://www.linkedin.com/in/nusratjahan73/) | [Email](mailto:nusrat.jahan4@ontariotechu.net)
 
