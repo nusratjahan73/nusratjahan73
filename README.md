@@ -4,7 +4,7 @@
 
 *"The world is one big data problem." — Andrew McAfee*
 
-🎓 Master of Business Analytics & AI — Ontario Tech University (In Progress CGPA 3.94)  
+🎓 Master of Business Analytics & AI — Ontario Tech University (In Progress CGPA 4.24 out of 4.30 ~ 3.94 in 4.0 scale)  
 🎓 B.Sc. Computer Science and Engineering — MIST (Completed)  
 💼 Open to Full-time Internship or Part-time opportunities  
 📍 Canada  
