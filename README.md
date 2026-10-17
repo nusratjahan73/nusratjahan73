@@ -23,7 +23,7 @@ GPA 4.24 out of 4.30. Coursework in AI programming, data processing, business an
 
 ---
 
-## Start Here
+## Featured Works
 
 | Project | What It Is | Tools |
 |---|---|---|
